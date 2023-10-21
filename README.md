@@ -1,1 +1,1 @@
-# adapter
+# example of using adapter pattern
